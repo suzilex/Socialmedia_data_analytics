@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/19741982/README.md)# Social Media Data Analytics Project
+(https://github.com/user-attachments/files/19741982/README.md)# Social Media Data Analytics Project
 
 This project involves helping a social media company better understand its user base & behavior on its platform.
 
